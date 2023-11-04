@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "cuadrom4agico",
+            "request": "launch",
+            "mainClass": "cuadrom4agico",
+            "projectName": "Matrices_284dad89"
+        },
+        {
+            "type": "java",
+            "name": "cuadromagico",
+            "request": "launch",
+            "mainClass": "cuadromagico",
+            "projectName": "Matrices_284dad89"
+        },
+        {
+            "type": "java",
+            "name": "ejemplo",
+            "request": "launch",
+            "mainClass": "ejemplo",
+            "projectName": "Matrices_284dad89"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Matrices",
+            "request": "launch",
+            "mainClass": "Matrices",
+            "projectName": "Matrices_284dad89"
+        }
+    ]
+}
